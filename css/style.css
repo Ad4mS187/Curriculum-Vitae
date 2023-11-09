@@ -327,10 +327,10 @@ a:focus {
 
 .header h1 {
     color: #222222;
-    font-size: 50px;
+    font-size: 35px;
     font-weight: 700;
 }
-
+.col-md-6:last-child
 .header h2 {
     display: inline-block;
     margin: 0;
